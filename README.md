@@ -56,6 +56,7 @@ Zarządza wizytami i spotkaniami wewnętrznymi.
 - Możliwość dodawania, aktualizacji i usuwania spotkań oraz uczestników  
 - Wszystkie operacje dostępne dla ról z wyjątkiem roli gościa  
 
+<img width="1919" height="1079" alt="prezentacja_ciemny1" src="https://github.com/user-attachments/assets/ac0e2214-ad36-4cc8-8153-96562f660e75" />
 
 
 ## Moduł Ustawienia administracyjne
