@@ -74,13 +74,11 @@ Zarządza wizytami i spotkaniami wewnętrznymi.
 - Wszystkie operacje dostępne dla ról z wyjątkiem roli gościa  
 
 
-
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c80e6e83-45c7-4f5e-aaa1-c2aa81b559fd" />
-
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3430c1b6-2fb7-4e58-8938-b4718030231c" />
 
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/008367d3-7792-4c30-b19e-81799495c082" />
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/97060221-15b3-44fc-8404-99c49fc5edbd" />
 
 
 ## Moduł Ustawienia administracyjne
