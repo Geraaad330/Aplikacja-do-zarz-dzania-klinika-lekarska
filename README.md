@@ -12,6 +12,11 @@ Dostępne są opcje:
 - wybór motywu (jasny/ciemny)  
 - tryb pełnoekranowy  
 
+<img width="2557" height="1390" alt="image" src="https://github.com/user-attachments/assets/3c104d7b-2f33-4144-a36d-5831de0f643d" />
+
+
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/ab7560e7-fbb6-4856-977b-25b7692fbb0e" />
+
 
 
 ## Moduł Pacjenci
@@ -23,6 +28,7 @@ Zarządza danymi pacjentów, diagnozami i receptami.
 - Możliwość dodawania, aktualizacji i usuwania pacjentów, diagnoz oraz recept  
 - Dostęp zależny od roli użytkownika (personel medyczny ma dostęp tylko do swoich pacjentów)  
 
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/2a26af9c-9d82-4581-b625-c53c4db70f03" />
 
 
 ## Moduł Pracownicy
