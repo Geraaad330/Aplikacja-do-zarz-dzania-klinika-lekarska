@@ -60,6 +60,8 @@ Zarządza pokojami i rezerwacjami.
 
 <img width="1915" height="1079" alt="rooms_CRUD" src="https://github.com/user-attachments/assets/e299f0a1-a5b3-46b6-a041-da59cc15bb70" />
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3d7bdeb6-60e4-457e-950f-f5b7ca040df3" />
+
 
 ## Moduł Harmonogram
 
