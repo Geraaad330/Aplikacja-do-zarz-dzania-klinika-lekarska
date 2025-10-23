@@ -63,14 +63,14 @@ typing_extensions==4.12.2
 
 1. Sklonuj repo:
 ```powershell
-git clone <URL_REPO>
-cd <repo-folder>
+git clone https://github.com/Geraaad330/Aplikacja-do-zarzadzania-klinika-lekarska.git
+cd Aplikacja-do-zarzadzania-klinika-lekarska
 ```
 
 2. Utwórz środowisko wirtualne i aktywuj:
 ```powershell
 python -m venv .venv
-.\.venv\Scriptsctivate
+.\.venv\Scripts\Activate
 ```
 
 3. Zaktualizuj `pip` i zainstaluj zależności:
@@ -94,25 +94,6 @@ python -m PyInstaller --windowed --noconfirm --hidden-import=bcrypt --add-data "
 
 Po zakończeniu budowania wynik znajdziesz w `dist/main/`.
 
-## Trwałe rozwiązanie — modyfikacja pliku `.spec`
-
-1. Otwórz `main.spec` po pierwszym buildzie.
-2. W `hiddenimports` dodaj `bcrypt`:
-```python
-a = Analysis(
-    ['main.py'],
-    pathex=[],
-    binaries=[],
-    datas=[('database', 'database'), ('..\Projekt_inzContent', 'Projekt_inzContent')],
-    hiddenimports=['bcrypt'],
-    ...
-)
-```
-3. Buduj z użyciem spec:
-```powershell
-python -m PyInstaller main.spec
-```
-
 ## Typowe problemy i rozwiązania (FAQ)
 
 - **`ModuleNotFoundError: No module named 'bcrypt'`** — dodaj `--hidden-import=bcrypt` lub wpisz w `main.spec`.
@@ -120,19 +101,3 @@ python -m PyInstaller main.spec
 ```powershell
 Remove-Item -Recurse -Force .\dist\main
 ```
-
-## Plik `.gitignore` (sugerowany)
-```
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.venv/
-venv/
-dist/
-build/
-*.spec
-Thumbs.db
-.DS_Store
-```
-
