@@ -73,7 +73,10 @@ Zarządza wizytami i spotkaniami wewnętrznymi.
 - Możliwość dodawania, aktualizacji i usuwania spotkań oraz uczestników  
 - Wszystkie operacje dostępne dla ról z wyjątkiem roli gościa  
 
-<img width="1919" height="1079" alt="prezentacja_ciemny1" src="https://github.com/user-attachments/assets/ac0e2214-ad36-4cc8-8153-96562f660e75" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4d01dc34-652b-4145-9b93-7667c41daeae" />
+
+
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/97060221-15b3-44fc-8404-99c49fc5edbd" />
 
