@@ -1,1 +1,1 @@
-# Aplikacja-do-zarz-dzania-klinika-lekarska
+# Aplikacja-do-zarzadzania-klinika-lekarska
