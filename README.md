@@ -29,7 +29,8 @@ Zarządza danymi pacjentów, diagnozami i receptami.
 - Możliwość dodawania, aktualizacji i usuwania pacjentów, diagnoz oraz recept  
 - Dostęp zależny od roli użytkownika (personel medyczny ma dostęp tylko do swoich pacjentów)  
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1b67cdc4-78ae-413f-bc09-85ee9e931421" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d2d3ea5c-bced-45eb-ba65-ef3715390f46" />
+
 
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c94f5313-1d9d-4d67-b9ec-077e6708ad2b" />
