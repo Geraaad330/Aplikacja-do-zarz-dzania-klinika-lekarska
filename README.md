@@ -1,3 +1,72 @@
+# Funkcjonalność aplikacji
+
+## Widok główny
+
+Po zalogowaniu użytkownik widzi ekran główny z najważniejszymi informacjami:
+
+- aktualna data i dzień tygodnia  
+- liczba dzisiejszych wizyt i wszystkich umówionych wizyt (dla personelu medycznego)  
+- dane personalne zalogowanego użytkownika, jego rolę i specjalności  
+
+Dostępne są opcje:
+- wybór motywu (jasny/ciemny)  
+- tryb pełnoekranowy  
+
+---
+
+## Moduł Pacjenci
+
+Zarządza danymi pacjentów, diagnozami i receptami.
+
+- Lista pacjentów zawiera: imię, nazwisko, PESEL, telefon, email, adres, datę urodzenia i status  
+- Lista diagnoz i recept zawiera powiązane informacje o pacjentach  
+- Możliwość dodawania, aktualizacji i usuwania pacjentów, diagnoz oraz recept  
+- Dostęp zależny od roli użytkownika (personel medyczny ma dostęp tylko do swoich pacjentów)  
+
+---
+
+## Moduł Pracownicy
+
+Zarządza danymi pracowników, ich usługami i specjalnościami.
+
+- Lista pracowników z podstawowymi danymi kontaktowymi i statusem aktywności  
+- Lista usług i specjalności przypisanych do pracowników  
+- Tabele przypisania usług i specjalności ułatwiają organizację pracy  
+- Operacje dodawania, aktualizacji i usuwania dostępne dla ról: administrator, recepcjonista, informatyk i kierownik  
+
+---
+
+## Moduł Pokoje i Rezerwacje
+
+Zarządza pokojami i rezerwacjami.
+
+- Lista pokoi z numerem, piętrem i typem  
+- Lista rezerwacji z datą, godziną, numerem pokoju i typem rezerwacji  
+- Możliwość dodawania, aktualizacji i usuwania pokoi, typów pokoi oraz rezerwacji  
+- Dostęp dla wszystkich ról poza rolą gościa  
+
+---
+
+## Moduł Harmonogram
+
+Zarządza wizytami i spotkaniami wewnętrznymi.
+
+- Lista wizyt zawiera dane pacjenta, pracownika, usługę, pokój, datę, godzinę, notatki i status wizyty  
+- Lista typów spotkań i spotkań wewnętrznych  
+- Możliwość dodawania, aktualizacji i usuwania spotkań oraz uczestników  
+- Wszystkie operacje dostępne dla ról z wyjątkiem roli gościa  
+
+---
+
+## Moduł Ustawienia administracyjne
+
+Najbardziej chroniony moduł, dostępny tylko dla Administratora i Informatyka.
+
+- Zarządzanie użytkownikami, rolami i przypisaniami pacjentów do personelu  
+- Pełny dostęp do dodawania, aktualizacji i usuwania użytkowników oraz przypisań  
+- Kluczowy dla systemu autoryzacji i organizacji opieki nad pacjentem  
+
+---
 
 # README — Uruchomienie projektu
 
@@ -93,11 +162,3 @@ python -m PyInstaller --windowed --noconfirm --hidden-import=bcrypt --add-data "
 ```
 
 Po zakończeniu budowania wynik znajdziesz w `dist/main/`.
-
-## Typowe problemy i rozwiązania (FAQ)
-
-- **`ModuleNotFoundError: No module named 'bcrypt'`** — dodaj `--hidden-import=bcrypt` lub wpisz w `main.spec`.
-- **`PermissionError` podczas usuwania `dist`** — zamknij uruchomione `main.exe` lub usuń `dist\main` ręcznie:
-```powershell
-Remove-Item -Recurse -Force .\dist\main
-```
