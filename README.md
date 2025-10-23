@@ -15,9 +15,8 @@ Dostępne są opcje:
 <img width="2557" height="1390" alt="image" src="https://github.com/user-attachments/assets/3c104d7b-2f33-4144-a36d-5831de0f643d" />
 
 
+<img width="1919" height="1078" alt="dashboard_main" src="https://github.com/user-attachments/assets/54d55a8c-827e-4ae3-85dd-9ba0640e2ced" />
 
-
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/ab7560e7-fbb6-4856-977b-25b7692fbb0e" />
 
 
 
