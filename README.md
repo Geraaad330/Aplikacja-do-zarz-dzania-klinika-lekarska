@@ -4,15 +4,17 @@
 
 Po zalogowaniu użytkownik widzi ekran główny z najważniejszymi informacjami:
 
-- aktualna data i dzień tygodnia  
-- liczba dzisiejszych wizyt i wszystkich umówionych wizyt (dla personelu medycznego)  
-- dane personalne zalogowanego użytkownika, jego rolę i specjalności  
+- Aktualna data i dzień tygodnia  
+- Liczba dzisiejszych wizyt i wszystkich umówionych wizyt (dla personelu medycznego)  
+- Dane personalne zalogowanego użytkownika, jego rolę i specjalności  
 
 Dostępne są opcje:
-- wybór motywu (jasny/ciemny)  
-- tryb pełnoekranowy  
+- Wybór motywu (jasny/ciemny)  
+- Tryb pełnoekranowy  
 
 <img width="2557" height="1390" alt="image" src="https://github.com/user-attachments/assets/3c104d7b-2f33-4144-a36d-5831de0f643d" />
+
+
 
 
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/ab7560e7-fbb6-4856-977b-25b7692fbb0e" />
