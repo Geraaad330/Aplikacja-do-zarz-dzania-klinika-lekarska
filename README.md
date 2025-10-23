@@ -12,7 +12,7 @@ Dostępne są opcje:
 - wybór motywu (jasny/ciemny)  
 - tryb pełnoekranowy  
 
----
+
 
 ## Moduł Pacjenci
 
@@ -23,7 +23,7 @@ Zarządza danymi pacjentów, diagnozami i receptami.
 - Możliwość dodawania, aktualizacji i usuwania pacjentów, diagnoz oraz recept  
 - Dostęp zależny od roli użytkownika (personel medyczny ma dostęp tylko do swoich pacjentów)  
 
----
+
 
 ## Moduł Pracownicy
 
@@ -34,7 +34,7 @@ Zarządza danymi pracowników, ich usługami i specjalnościami.
 - Tabele przypisania usług i specjalności ułatwiają organizację pracy  
 - Operacje dodawania, aktualizacji i usuwania dostępne dla ról: administrator, recepcjonista, informatyk i kierownik  
 
----
+
 
 ## Moduł Pokoje i Rezerwacje
 
@@ -45,7 +45,7 @@ Zarządza pokojami i rezerwacjami.
 - Możliwość dodawania, aktualizacji i usuwania pokoi, typów pokoi oraz rezerwacji  
 - Dostęp dla wszystkich ról poza rolą gościa  
 
----
+
 
 ## Moduł Harmonogram
 
@@ -56,7 +56,7 @@ Zarządza wizytami i spotkaniami wewnętrznymi.
 - Możliwość dodawania, aktualizacji i usuwania spotkań oraz uczestników  
 - Wszystkie operacje dostępne dla ról z wyjątkiem roli gościa  
 
----
+
 
 ## Moduł Ustawienia administracyjne
 
@@ -66,7 +66,7 @@ Najbardziej chroniony moduł, dostępny tylko dla Administratora i Informatyka.
 - Pełny dostęp do dodawania, aktualizacji i usuwania użytkowników oraz przypisań  
 - Kluczowy dla systemu autoryzacji i organizacji opieki nad pacjentem  
 
----
+
 
 # README — Uruchomienie projektu
 
