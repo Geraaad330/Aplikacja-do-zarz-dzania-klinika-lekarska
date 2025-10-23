@@ -46,6 +46,8 @@ Zarządza danymi pracowników, ich usługami i specjalnościami.
 
 <img width="1918" height="1079" alt="serv_spec_CRUD" src="https://github.com/user-attachments/assets/9006cd99-feb7-4ec9-a263-c2dd61011a59" />
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7ad8d902-a71f-451f-9108-1368ae806967" />
+
 
 ## Moduł Pokoje i Rezerwacje
 
