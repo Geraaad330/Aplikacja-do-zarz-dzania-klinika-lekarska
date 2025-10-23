@@ -85,6 +85,9 @@ Najbardziej chroniony moduł, dostępny tylko dla Administratora i Informatyka.
 - Pełny dostęp do dodawania, aktualizacji i usuwania użytkowników oraz przypisań  
 - Kluczowy dla systemu autoryzacji i organizacji opieki nad pacjentem  
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/13156eec-0b5d-4f2e-82df-27347ff7fb8c" />
+
+
 <img width="1919" height="1079" alt="prezentacja_roles_list" src="https://github.com/user-attachments/assets/3e7c318b-5b74-4f78-a480-b2342a237801" />
 
 
