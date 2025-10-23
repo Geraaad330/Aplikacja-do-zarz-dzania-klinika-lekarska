@@ -9,18 +9,6 @@ Poniżej znajdziesz gotowy opis pokazujący, jak uruchomić projekt lokalnie i j
 - System: Windows (instrukcje zawierają polecenia dla PowerShell)
 - Zainstalowane pakiety (użyj pliku `requirements.txt`)
 
-## Struktura repo (przykładowo)
-```
-/ (repo root)
-  ├─ main.py
-  ├─ requirements.txt
-  ├─ database/                      # folder danych (dołączany do .exe)
-  ├─ Projekt_inzContent/            # folder z zasobami (dołączany do .exe)
-  ├─ controllers/
-  ├─ main.spec                      # (powstanie po pierwszym buildzie)
-  └─ README.md
-```
-
 ## Zawartość `requirements.txt`
 
 Utwórz w repo plik `requirements.txt` zawierający dokładne wersje (przykład):
