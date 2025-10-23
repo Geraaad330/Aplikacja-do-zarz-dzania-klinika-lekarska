@@ -34,6 +34,7 @@ Zarządza danymi pracowników, ich usługami i specjalnościami.
 - Tabele przypisania usług i specjalności ułatwiają organizację pracy  
 - Operacje dodawania, aktualizacji i usuwania dostępne dla ról: administrator, recepcjonista, informatyk i kierownik  
 
+<img width="1918" height="1079" alt="serv_spec_CRUD" src="https://github.com/user-attachments/assets/9006cd99-feb7-4ec9-a263-c2dd61011a59" />
 
 
 ## Moduł Pokoje i Rezerwacje
@@ -45,6 +46,7 @@ Zarządza pokojami i rezerwacjami.
 - Możliwość dodawania, aktualizacji i usuwania pokoi, typów pokoi oraz rezerwacji  
 - Dostęp dla wszystkich ról poza rolą gościa  
 
+<img width="1915" height="1079" alt="rooms_CRUD" src="https://github.com/user-attachments/assets/e299f0a1-a5b3-46b6-a041-da59cc15bb70" />
 
 
 ## Moduł Harmonogram
@@ -67,6 +69,7 @@ Najbardziej chroniony moduł, dostępny tylko dla Administratora i Informatyka.
 - Pełny dostęp do dodawania, aktualizacji i usuwania użytkowników oraz przypisań  
 - Kluczowy dla systemu autoryzacji i organizacji opieki nad pacjentem  
 
+<img width="1919" height="1079" alt="prezentacja_roles_list" src="https://github.com/user-attachments/assets/3e7c318b-5b74-4f78-a480-b2342a237801" />
 
 
 # README — Uruchomienie projektu
