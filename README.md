@@ -74,7 +74,9 @@ Zarządza wizytami i spotkaniami wewnętrznymi.
 - Wszystkie operacje dostępne dla ról z wyjątkiem roli gościa  
 
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4d01dc34-652b-4145-9b93-7667c41daeae" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c80e6e83-45c7-4f5e-aaa1-c2aa81b559fd" />
+
 
 
 
