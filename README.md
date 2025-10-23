@@ -5,7 +5,7 @@
 Po zalogowaniu użytkownik widzi ekran główny z najważniejszymi informacjami:
 
 - Aktualna data i dzień tygodnia  
-- Liczba dzisiejszych wizyt i wszystkich umówionych wizyt (dla personelu medycznego)  
+- Liczba dzisiejszych wizyt i wszystkich umówionych wizyt (dla zalogowanego lekarza/pracownika medycznego)  
 - Dane personalne zalogowanego użytkownika, jego rolę i specjalności  
 
 Dostępne są opcje:
