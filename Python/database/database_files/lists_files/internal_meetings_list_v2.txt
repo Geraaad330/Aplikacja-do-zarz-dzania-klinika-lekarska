@@ -1,0 +1,20 @@
+1,7,201,2025-04-21 10:45-11:45,Konsultacje przypadków,Zaplanowane
+2,4,202,2025-04-21 09:15-10:15,Sesja superwizji grupowej,Zakończone
+3,9,203,2025-04-21 11:45-12:45,Szkolenie z nowych metod,Odwołane
+4,3,204,2025-04-21 15:00-16:00,Omówienie planów,Przełożone
+5,6,205,2025-04-21 11:00-12:00,Spotkanie wprowadzające,Oczekujące
+6,11,206,2025-04-22 12:15-13:15,Konsultacje przypadków,Zaplanowane
+7,1,207,2025-04-22 12:45-13:45,Sesja superwizji grupowej,Zakończone
+8,5,208,2025-04-22 10:15-11:15,Szkolenie z nowych metod,Odwołane
+9,2,209,2025-04-22 14:30-15:30,Omówienie planów,Przełożone
+10,8,210,2025-04-22 08:00-09:00,Spotkanie wprowadzające,Oczekujące
+11,10,211,2025-04-23 10:45-11:45,Konsultacje przypadków,Zaplanowane
+12,3,212,2025-04-23 13:30-14:30,Sesja superwizji grupowej,Zakończone
+13,9,213,2025-04-23 15:30-16:30,Szkolenie z nowych metod,Odwołane
+14,7,214,2025-04-23 09:15-10:15,Omówienie planów,Przełożone
+15,4,215,2025-04-23 14:45-15:45,Spotkanie wprowadzające,Oczekujące
+16,1,216,2025-04-24 12:15-13:15,Konsultacje przypadków,Zaplanowane
+17,6,217,2025-04-24 10:00-11:00,Sesja superwizji grupowej,Zakończone
+18,10,218,2025-04-24 09:00-10:00,Szkolenie z nowych metod,Odwołane
+19,5,219,2025-04-24 13:45-14:45,Omówienie planów,Przełożone
+20,11,220,2025-04-24 14:00-15:00,Spotkanie wprowadzające,Oczekujące

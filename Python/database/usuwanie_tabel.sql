@@ -1,0 +1,34 @@
+PRAGMA foreign_keys = OFF;
+
+DROP TABLE IF EXISTS appointments;
+DROP TABLE IF EXISTS auth_users;
+DROP TABLE IF EXISTS diagnoses;
+DROP TABLE IF EXISTS employee_roles;
+DROP TABLE IF EXISTS employee_schedule;
+DROP TABLE IF EXISTS employee_services;
+DROP TABLE IF EXISTS employee_specialties;
+DROP TABLE IF EXISTS employees;
+DROP TABLE IF EXISTS form_types;
+DROP TABLE IF EXISTS internal_meetings;
+DROP TABLE IF EXISTS medical_records;
+DROP TABLE IF EXISTS meeting_participants;
+DROP TABLE IF EXISTS meeting_types;
+DROP TABLE IF EXISTS messages;
+DROP TABLE IF EXISTS patient_forms;
+DROP TABLE IF EXISTS patients;
+DROP TABLE IF EXISTS payments;
+DROP TABLE IF EXISTS prescriptions;
+DROP TABLE IF EXISTS price_list;
+DROP TABLE IF EXISTS role_permissions;
+DROP TABLE IF EXISTS roles;
+DROP TABLE IF EXISTS room_reservations;
+DROP TABLE IF EXISTS room_types;
+DROP TABLE IF EXISTS rooms;
+DROP TABLE IF EXISTS services;
+DROP TABLE IF EXISTS specialties;
+DROP TABLE IF EXISTS staff;
+DROP TABLE IF EXISTS system_permissions;
+DROP TABLE IF EXISTS test_table;
+DROP TABLE IF EXISTS visits;
+
+PRAGMA foreign_keys = ON;

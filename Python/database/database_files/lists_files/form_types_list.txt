@@ -1,0 +1,15 @@
+1,Zgoda na leczenie
+2,Zgoda na przetwarzanie danych osobowych (RODO)
+3,Zgoda na udostępnienie danych medycznych
+4,Zgoda na uczestnictwo w badaniach klinicznych
+5,Zgoda na nagrywanie sesji terapeutycznych
+6,Zgoda na leczenie dziecka przez opiekuna prawnego
+7,Zgoda na przetwarzanie danych w celach marketingowych
+8,Zgoda na udział w badaniach naukowych
+9,Zgoda na kontakt z osobami trzecimi
+10,Zgoda na udostępnienie dokumentacji medycznej lekarzowi zewnętrznemu
+11,Oświadczenie o zapoznaniu się z regulaminem instytucji
+12,Zgoda na testy diagnostyczne
+13,Formularz rezygnacji z leczenia
+14,Deklaracja wyboru lekarza prowadzącego
+15,Formularz zgłoszenia uwag lub skarg

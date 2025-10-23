@@ -1,0 +1,16 @@
+jan.kowalski,password1,1,1,1
+wojciech.szymanski,password2,9,2,1
+dominik.jachas,password3,3,3,1
+michal.nowicki,password4,3,4,1
+anna.nowak,password5,4,5,1
+joanna.stepien,password6,4,6,1
+pawel.lis,password7,4,7,1
+marta.zawadzka,password8,5,8,1
+adam.domanski,password9,5,9,1
+maria.zielinska,password10,6,10,1
+sebastian.bak,password11,6,11,1
+tomasz.malinowski,password12,7,12,1
+julia.gorska,password13,7,13,1
+boguslaw.lecina,password14,8,14,1
+klaudia.bak,password15,2,15,1
+michal.glus,password16,10,16,1

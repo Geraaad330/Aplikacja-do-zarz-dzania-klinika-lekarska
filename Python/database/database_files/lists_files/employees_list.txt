@@ -1,0 +1,16 @@
+1, Jan, Kowalski, jan.kowalski@klinika.com, 222333444, Administrator, 0
+2, Wojciech, Szymański, wojciech.szymanski@klinika.com, 555808808, Informatyk, 0
+3, Dominik, Jachaś, dominik.jachas@klinika.com, 555101101, Psychiatra, 1
+4, Michał, Nowicki, michal.nowicki@klinika.com, 555101202, Psychiatra, 1
+5, Anna, Nowak, anna.nowak@klinika.com, 555202202, Psycholog kliniczny, 1
+6, Joanna, Stępień, joanna.stepien@klinika.com, 555202303, Psycholog kliniczny, 1
+7, Paweł, Lis, pawel.lis@klinika.com, 555303404, Psycholog kliniczny, 1
+8, Marta, Zawadzka, marta.zawadzka@klinika.com, 555404505, Psychoterapeuta, 1
+9, Adam, Domański, adam.domanski@klinika.com, 555505606, Psychoterapeuta, 1
+10, Maria, Zielińska, maria.zielinska@klinika.com, 555404404, Psychopedagog, 1
+11, Sebastian, Bąk, sebastian.bak@klinika.com, 111222333, Psychopedagog, 1
+12, Tomasz, Malinowski, tomasz.malinowski@klinika.com, 555505505, Terapeuta uzależnień, 1
+13, Julia, Górska, julia.gorska@klinika.com, 555606707, Terapeuta uzależnień, 1
+14, Bogusław, Łęcina, boguslaw.lecina@klinika.com, 555606606, Dietetyk kliniczny, 1
+15, Klaudia, Bąk, klaudia.bak@klinika.com, 555707707, Recepcjonista, 0
+16, Michał, Głuś, michal.glus@klinika.com, 555213769, Kierownik, 0

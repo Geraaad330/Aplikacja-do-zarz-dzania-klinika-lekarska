@@ -1,0 +1,11 @@
+Administrator
+Recepcjonista
+Psychiatra
+Psycholog kliniczny
+Psychoterapeuta
+Psychopedagog
+Terapeuta uzależnień
+Dietetyk kliniczny
+Informatyk
+Kierownik
+Inny

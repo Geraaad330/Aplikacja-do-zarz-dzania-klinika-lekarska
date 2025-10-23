@@ -1,0 +1,15 @@
+1,Biuro recepcji
+2,Gabinet psychoterapeutyczny
+3,Gabinet psychiatryczny
+4,Gabinet konsultacji zespołowych
+5,Sala terapii rodzinnej
+6,Pokój strategii i planowania
+7,Pokój socjalny
+8,Sala konferencyjna
+9,Pokój terapii dziecięcej
+10,Gabinet psychodietetyczny
+11,Pokój konsultacji rodzinnych
+12,Pokój superwizji
+13,Sala terapii grupowej
+14,Sala planowania terapii
+15,Gabinet diagnostyczny

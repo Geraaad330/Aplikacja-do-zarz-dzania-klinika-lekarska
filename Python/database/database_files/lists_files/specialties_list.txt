@@ -1,0 +1,13 @@
+1,Psychiatra dorosłych
+2,Psychiatra dzieci i młodzieży
+3,Psychologia kliniczna dorosłych
+4,Psychologia dziecięca
+5,Terapia poznawczo-behawioralna (CBT)
+6,Terapia psychodynamiczna
+7,Terapia systemowa rodzin
+8,Terapia pedagogiczna
+9,Diagnoza i terapia trudności szkolnych
+10,Terapia uzależnień behawioralnych
+11,Terapia uzależnień od substancji psychoaktywnych
+12,Dietetyka zaburzeń odżywiania
+13,Dietetyka pediatryczna

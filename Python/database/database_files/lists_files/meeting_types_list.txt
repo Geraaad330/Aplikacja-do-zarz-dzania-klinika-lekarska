@@ -1,0 +1,11 @@
+1,Konsylium terapeutyczne
+2,Superwizja
+3,Szkolenie wewnętrzne
+4,Spotkanie zespołu interdyscyplinarnego
+5,Odprawa zespołu
+6,Spotkanie szkoleniowe
+7,Spotkanie informacyjne
+8,Spotkanie integracyjne
+9,Konsultacje z ekspertami
+10,Przegląd projektów
+11,Spotkanie oceniające

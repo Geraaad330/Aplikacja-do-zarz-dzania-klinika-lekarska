@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Projekt_inz",
+            "group": "Projekt_inz",
+            "database": "${workspaceFolder:Projekt_inz}/Python/database/db_projekt_inz.db"
+        }
+    ]
+}

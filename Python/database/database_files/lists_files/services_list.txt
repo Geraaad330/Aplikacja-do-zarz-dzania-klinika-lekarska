@@ -1,0 +1,19 @@
+1,Diagnoza i leczenie zaburzeń psychicznych,60,250
+2,Farmakoterapia (przepisywanie leków psychotropowych),30,150
+3,Konsultacje psychiatryczne,45,200
+4,Diagnoza psychologiczna,90,300
+5,Psychoterapia indywidualna i grupowa,60,180
+6,Terapia poznawczo-behawioralna,60,200
+7,Konsultacje rodzinne i małżeńskie,75,250
+8,Psychoterapia indywidualna,60,200
+9,Psychoterapia grupowa,90,180
+10,Terapia rodzin,90,300
+11,Terapia par,75,250
+12,Terapia dzieci z trudnościami w nauce,60,200
+13,Wsparcie w rozwoju umiejętności społecznych,45,150
+14,Indywidualna terapia uzależnień,60,180
+15,Grupowa terapia uzależnień,90,150
+16,Terapia współuzależnienia,60,200
+17,Konsultacje dla rodzin osób uzależnionych,60,180
+18,Diagnostyka dietetyczna i analiza stanu zdrowia,60,200
+19,Opieka dietetyczna w zaburzeniach odżywiania,45,170

@@ -1,0 +1,100 @@
+1,1,Zaburzenie depresyjne nawracające,6B80
+2,2,Zaburzenie afektywne dwubiegunowe,7A10
+3,3,Schizofrenia paranoidalna,6B81
+4,4,Zaburzenie osobowości typu borderline,6B02
+5,5,Zespół stresu pourazowego (PTSD),6B03
+6,6,Zaburzenia obsesyjno-kompulsyjne (OCD),6B06
+7,7,Uogólnione zaburzenie lękowe,7A20
+8,8,Zaburzenia psychotyczne niespecyficzne,QE86
+9,9,Zaburzenie depresyjne nawracające,6A20
+10,10,Zaburzenie afektywne dwubiegunowe,6B42
+11,11,Schizofrenia paranoidalna,6B66
+12,12,Zaburzenie osobowości typu borderline,6A72
+13,13,Zespół stresu pourazowego (PTSD),6A71
+14,14,Zaburzenia obsesyjno-kompulsyjne (OCD),6A60.0
+15,15,Uogólnione zaburzenie lękowe,6B22
+16,16,Zaburzenia psychotyczne niespecyficzne,6B64
+17,17,Zaburzenie depresyjne,6C22
+18,18,Zaburzenie lękowe uogólnione,6B60
+19,19,Zespół stresu pourazowego (PTSD),6B05
+20,20,Zaburzenie obsesyjno-kompulsyjne (OCD),6B00
+21,21,Fobia społeczna,6B01
+22,22,Zaburzenia adaptacyjne,6A40
+23,23,Zaburzenia konwersyjne,6A05
+24,24,Dysleksja rozwojowa,6B20
+25,25,Zespół wypalenia zawodowego,6B20.1
+26,26,Zaburzenia funkcji poznawczych,6B21
+27,27,Zaburzenia psychosomatyczne,6D80
+28,28,Zespół Aspergera,6D11
+29,29,Zaburzenia snu o podłożu psychicznym,6D70
+30,30,Zaburzenie somatyzacyjne,6D50
+31,31,Zaburzenie osobowości unikającej,6D10
+32,32,Zaburzenie depresyjne,6A00
+33,33,Zespół wypalenia zawodowego,6A23
+34,34,Zaburzenia psychosomatyczne,6A60
+35,35,Zaburzenia funkcji poznawczych,6C20
+36,36,Fobia społeczna,6C21
+37,37,Zaburzenia adaptacyjne,6B41
+38,38,Zespół Aspergera,6B40
+39,39,Zaburzenie lękowe uogólnione,6C90
+40,40,Zaburzenia snu o podłożu psychicznym,6A81
+41,41,Zaburzenie osobowości zależnej,6A81
+42,42,Zaburzenie osobowości histrioniczne,6C20.1
+43,43,Zaburzenie osobowości narcystyczne,6B03.1
+44,44,Zaburzenie osobowości antyspołeczne,6D11
+45,45,Zaburzenie osobowości schizotypowe,6D70
+46,46,Zaburzenie osobowości paranoiczne,6D50
+47,47,Zaburzenie osobowości unikowe,6D10
+48,48,Zaburzenie adaptacyjne z obniżonym nastrojem,6A00
+49,49,Zaburzenie adaptacyjne z lękiem,6A23
+50,50,Zaburzenie adaptacyjne mieszane,6A60
+51,51,Dystymia,6C20
+52,52,Cyklotymia,6C21
+53,53,Zaburzenia związane z traumą wczesnodziecięcą,6B41
+54,54,Zaburzenia więzi u dorosłych,6B40
+55,55,Zaburzenie depersonalizacyjne,6C90
+56,56,Zaburzenie osobowości narcystyczne,6A81
+57,57,Specyficzne trudności w nauce,6A00
+58,58,Opóźniony rozwój mowy,6A23
+59,59,Dysgrafia,6A60
+60,60,Dyskalkulia,6C20
+61,61,Dysortografia,6C21
+62,62,Zaburzenia koncentracji uwagi,6B41
+63,63,Zespół nadpobudliwości psychoruchowej (ADHD),6B40
+64,64,Zaburzenia przetwarzania sensorycznego,6C90
+65,65,Trudności w adaptacji szkolnej,6A81
+66,66,Zaburzenia emocjonalne wieku dziecięcego,6C20.1
+67,67,Zaburzenia zachowania u dzieci i młodzieży,6B03.1
+68,68,Zespół Aspergera,6D11
+69,69,Trudności w relacjach rówieśniczych,6D70
+70,70,Lęk szkolny,6D50
+71,71,Zaburzenia funkcji wykonawczych,6D10
+72,72,Zaburzenia emocjonalne wieku dziecięcego,6A00
+73,73,Uzależnienie od alkoholu,6B02
+74,74,Uzależnienie od nikotyny,6B03
+75,75,Uzależnienie od substancji psychoaktywnych,6B06
+76,76,Uzależnienie od opioidów,6A20
+77,77,Uzależnienie od benzodiazepin,6B42
+78,78,Uzależnienie od stymulantów,6B66
+79,79,Uzależnienie od hazardu,6A72
+80,80,Uzależnienie od internetu,6A71
+81,81,Uzależnienie od gier komputerowych,6A60.0
+82,82,Uzależnienie od mediów społecznościowych,6B22
+83,83,Uzależnienie od alkoholu,6B64
+84,84,Uzależnienie od nikotyny,6C22
+85,85,Uzależnienie od substancji psychoaktywnych,6B60
+86,86,Uzależnienie od opioidów,6B05
+87,87,Uzależnienie od benzodiazepin,6B00
+88,88,Uzależnienie od stymulantów,6B01
+89,89,Otyłość,6B80
+90,90,Nadwaga,7A10
+91,91,Niedowaga,6B81
+92,92,Anoreksja,6B02
+93,93,Bulimia,6B03
+94,94,Ortoreksja,6B06
+95,95,Zespół jedzenia nocnego (NES),6A20
+96,96,Zespół metaboliczny,6B42
+97,97,Insulinooporność,6B66
+98,98,Cukrzyca typu II,6A72
+99,99,Cukrzyca typu I,6A71
+100,100,Nietolerancja laktozy,6A60.0
