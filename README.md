@@ -13,7 +13,6 @@ Dostępne są opcje:
 - Tryb pełnoekranowy  
 
 <img width="2557" height="1390" alt="image" src="https://github.com/user-attachments/assets/3c104d7b-2f33-4144-a36d-5831de0f643d" />
-
 <br><br>
 <img width="1919" height="1078" alt="dashboard_main" src="https://github.com/user-attachments/assets/54d55a8c-827e-4ae3-85dd-9ba0640e2ced" />
 
@@ -30,9 +29,7 @@ Zarządza danymi pacjentów, diagnozami i receptami.
 - Dostęp zależny od roli użytkownika (personel medyczny ma dostęp tylko do swoich pacjentów)  
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d2d3ea5c-bced-45eb-ba65-ef3715390f46" />
-
-
-
+<br><br>
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c94f5313-1d9d-4d67-b9ec-077e6708ad2b" />
 
 
@@ -46,7 +43,7 @@ Zarządza danymi pracowników, ich usługami i specjalnościami.
 - Operacje dodawania, aktualizacji i usuwania dostępne dla ról: administrator, recepcjonista, informatyk i kierownik  
 
 <img width="1918" height="1079" alt="serv_spec_CRUD" src="https://github.com/user-attachments/assets/9006cd99-feb7-4ec9-a263-c2dd61011a59" />
-
+<br><br>
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7ad8d902-a71f-451f-9108-1368ae806967" />
 
 
@@ -60,7 +57,7 @@ Zarządza pokojami i rezerwacjami.
 - Dostęp dla wszystkich ról poza rolą gościa  
 
 <img width="1915" height="1079" alt="rooms_CRUD" src="https://github.com/user-attachments/assets/e299f0a1-a5b3-46b6-a041-da59cc15bb70" />
-
+<br><br>
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3d7bdeb6-60e4-457e-950f-f5b7ca040df3" />
 
 
@@ -75,8 +72,7 @@ Zarządza wizytami i spotkaniami wewnętrznymi.
 
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3430c1b6-2fb7-4e58-8938-b4718030231c" />
-
-
+<br><br>
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/008367d3-7792-4c30-b19e-81799495c082" />
 
 
@@ -90,8 +86,7 @@ Najbardziej chroniony moduł, dostępny tylko dla Administratora i Informatyka.
 - Kluczowy dla systemu autoryzacji i organizacji opieki nad pacjentem  
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/13156eec-0b5d-4f2e-82df-27347ff7fb8c" />
-
-
+<br><br>
 <img width="1919" height="1079" alt="prezentacja_roles_list" src="https://github.com/user-attachments/assets/3e7c318b-5b74-4f78-a480-b2342a237801" />
 
 
